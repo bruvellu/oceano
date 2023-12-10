@@ -1,6 +1,6 @@
 # Oceano: vida escondida
 
-![](http://cebimar.usp.br/oceano/images/headers/h11.jpg)
+[![](http://cebimar.usp.br/oceano/images/headers/h11.jpg)](http://cebimar.usp.br/oceano/)
 
 Exposição fotográfica itinerante criada em 2007 com imagens inéditas de corais, águas-vivas e outros organismos marinhos de rara beleza estética.
 Venha apreciar estes seres dificilmente vistos fora do meio científico:
