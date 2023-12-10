@@ -11,5 +11,5 @@ Venha apreciar estes seres dificilmente vistos fora do meio científico:
 
 - **Fotógrafos:** Alberto Lindner, Alvaro E. Migotto, Bruno C. Vellutini, Inácio D. da Silva Neto.
 - **Realização:** Centro de Biologia Marinha da Universidade de São Paulo (CEBIMar/USP)
-- **Website:** [Bruno C. Vellutini](https://brunovellutini.com/)
+- **Webdesign:** [Bruno C. Vellutini](https://brunovellutini.com/)
 
