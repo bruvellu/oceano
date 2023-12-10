@@ -7,9 +7,9 @@
 # and as many pages as you want as .html files
 
 # Define your source files
-HEADER=header
-SIDEBAR=sidebar
-FOOTER=footer
+HEADER=header.html
+SIDEBAR=sidebar.html
+FOOTER=footer.html
 OCEANO=oceano.html
 GALERIA=galeria.html
 MOSTRAS=mostras.html
