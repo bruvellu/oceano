@@ -2,7 +2,7 @@
 
 /*
 	Bruno C. Vellutini
-	http://organelas.com/	
+	http://brunovellutini.com/	
 	
 	zenlike1.0 by nodethirtythree design
 	http://www.nodethirtythree.com
@@ -226,7 +226,7 @@ width: 283px;
 .divider1
 {
 /*position: relative;*/
-background: #fcfcfc url('images/border2.gif') repeat-x;
+background: #fcfcfc url('../images/border2.gif') repeat-x;
 height: 14px;
 margin: 2.0em 0em 1.5em 0em;
 clear: both;
@@ -249,7 +249,7 @@ margin: 2.0em 0em 2.0em 0em;
 .box
 {
 position: relative;
-background: #FDFCF6 url('images/boxbg.gif') repeat-x;
+background: #FDFCF6 url('../images/boxbg.gif') repeat-x;
 padding: 0.5em 1.0em;
 border-bottom: solid 1px #E1D2BD;
 color: #000;
@@ -267,7 +267,7 @@ ul.linklist
 list-style: none;
 text-align: left;
 margin: 1em 0pt;
-background: #ffffff url('images/boxbg.gif') repeat-x;
+background: #ffffff url('../images/boxbg.gif') repeat-x;
 padding: 1em;
 }
 
@@ -282,7 +282,7 @@ padding: 1em;
 
 ul#atual
 {
-/*background: #ffffff url('images/boxbg2.gif') repeat-x;*/
+/*background: #ffffff url('../images/boxbg2.gif') repeat-x;*/
 }
 
 ul.linklist li
@@ -335,7 +335,7 @@ border: 0;
 #menu
 {
 position: relative;
-background: url('images/menulongback.gif') repeat-x #1a1a1a;
+background: url('../images/menulongback.gif') repeat-x #1a1a1a;
 height: 2.5em;
 padding: 0em 1.0em 0em 1.0em;
 margin-bottom: 1px;
@@ -361,7 +361,7 @@ display: inline;
 padding: 0.35em 1.0em;
 color: #fff;
 text-decoration: none;
-background: #333 url('images/menulongbacki.gif') repeat-x scroll 0%;
+background: #333 url('../images/menulongbacki.gif') repeat-x scroll 0%;
 }
 
 #menu ul li a:hover
@@ -372,7 +372,7 @@ background: transparent;
 
 #menubottom
 {
-background: #fff url('images/border1.gif') repeat-x;
+background: #fff url('../images/border1.gif') repeat-x;
 height: 14px;
 margin-bottom: 1.5em;
 color: black;
@@ -535,7 +535,7 @@ text-decoration: none;
 
 .highslide
 {
-cursor: url('highslide/graphics/zoomin.cur'), pointer;
+cursor: url('../js/graphics/zoomin.cur'), pointer;
 outline: none;
 }
 
@@ -602,7 +602,7 @@ border-bottom: 1px solid white;
 background-color: #000;
 /*
 padding-left: 22px;
-background-image: url('highslide/graphics/loader.gif');
+background-image: url('../js/graphics/loader.gif');
 background-repeat: no-repeat;
 background-position: 3px 1px;
 */
@@ -679,7 +679,7 @@ display: none;
 
 /* Controlbar example */
 .controlbar {	
-	background: url('highslide/graphics/controlbar4.gif');
+	background: url('../js/graphics/controlbar4.gif');
 	width: 100px;
 	height: 34px;
 }
@@ -690,7 +690,7 @@ display: none;
 	height: 27px;
 }
 .controlbar a:hover {
-	background-image: url('highslide/graphics/controlbar4-hover.gif');
+	background-image: url('../js/graphics/controlbar4-hover.gif');
 }
 
 .controlbar .previous {
