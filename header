@@ -1,0 +1,159 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--
+	
+	Oceano v2.5 - 27/05/2010
+	
+	Pagina desenvolvida por Bruno C. Vellutini
+	http://organelas.com/
+	
+	Otimo Javascript para visualizar as imagens por Torstein Honsi
+	http://vikjavev.no/highslide/ 
+	
+	Template original disponibilizado por zenlike1.0 by nodethirtythree design
+	http://www.nodethirtythree.com/
+	
+	Feed distribuido com FeedBurner
+	http://www.feedburner.com/
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt-br" lang="pt-br">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<title>Oceano: Vida Escondida</title>
+<meta name="author" content="Bruno Cossermelli Vellutini"/>
+<meta name="Publisher" content="CEBIMar - Centro de Biologia Marinha da Universidade de S&atilde;o Paulo" />
+<meta name="Keywords" content="invertebrados marinhos, fotos, exposi&ccedil;&atilde;o fotogr&aacute;fica, cebimar, oceano, echinodermata, cnidaria, jelly fish, marine invertebrates, coral, " />
+<meta name="Description" content="Exposi&ccedil;&atilde;o Oceano: vida escondida" />
+<meta name="Copyright" content="Alberto Lindner, Alvaro Migotto, Bruno Vellutini e In&aacute;cio Domingos da Silva Neto - CEBIMar-USP" />
+<link rel="stylesheet" type="text/css" href="default.css" />
+<link rel="shortcut icon" href="images/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="Feed do Oceano: vida escondida" href="http://feeds.feedburner.com/oceano" />
+<link rel="index" href="index.html" />
+<link title="Ocean: hidden life" type="text/html" rel="alternate" hreflang="en" href="ocean.html" />
+
+<!-- Highslide -->
+<script type="text/javascript" src="highslide/highslide.js"></script>
+<script type="text/javascript" src="highslide/highslide-html.js"></script>
+<script type="text/javascript">
+	hs.registerOverlay(
+		{
+			thumbnailId: null,
+			overlayId: 'controlbar',
+			position: 'bottom left',
+			hideOnMouseOut: true,
+			opacity: 0.75
+		}
+	);
+	hs.graphicsDir = 'highslide/graphics/';
+	
+	// Traduzido para o portugues
+	hs.fullExpandTitle = 'Expandir para o tamanho original';
+	hs.restoreTitle = 'Clique para fechar, clique e arraste para mover. Use as setas para navegar.';
+	hs.focusTitle = 'Clique para trazer pra frente';
+	hs.loadingText = 'Carregando...';
+	hs.loadingTitle = 'Clique para cancelar';
+</script>
+
+</head>
+
+<body>
+<!-- Legendas da Barra de controle do Highslide -->
+<div id="controlbar" class="highslide-overlay controlbar">
+	<a href="#" class="previous" onclick="return hs.previous(this)" title="Previous (left arrow key)"></a>
+	<a href="#" class="next" onclick="return hs.next(this)" title="Next (right arrow key)"></a>
+</div>
+
+<div class="topper">
+        <!--<div id="lang">See this page in English (soon)</div>-->
+	<div id="navega">Melhor visualizado no <a href="http://www.microsoft.com/brasil/windows/products/winfamily/ie/default.mspx">Internet Explorer 7</a>, <a href="http://br.mozdev.org/">Firefox 2 e 3+</a> e <a href="http://www.opera.com/">Opera 9+</a></div>
+</div>
+
+<div id="outer">
+
+	<div id="header">
+
+		<script type="text/javascript">
+		<!--
+		/*
+		Random Image Link Script
+		By Website Abstraction (http://www.wsabstract.com)
+		and Java-scripts.net (http://www.java-scripts.net)
+		*/
+
+		function random_imglink(){
+		  var myimages=new Array()
+		  //specify random images below. You can have as many as you wish
+		  myimages[1]="images/headers/h1.jpg"
+		  myimages[2]="images/headers/h2.jpg"
+		  myimages[3]="images/headers/h3.jpg"
+		  myimages[4]="images/headers/h4.jpg"
+		  myimages[5]="images/headers/h5.jpg"
+		  myimages[6]="images/headers/h6.jpg"
+		  myimages[7]="images/headers/h7.jpg"
+		  myimages[8]="images/headers/h8.jpg"
+		  myimages[9]="images/headers/h9.jpg"
+		  myimages[10]="images/headers/h10.jpg"
+		  myimages[11]="images/headers/h11.jpg"
+		  myimages[12]="images/headers/h12.jpg"
+		  myimages[13]="images/headers/h13.jpg"
+		  myimages[14]="images/headers/h14.jpg"
+		  myimages[15]="images/headers/h15.jpg"
+		  myimages[16]="images/headers/h16.jpg"
+		  myimages[17]="images/headers/h17.jpg"
+		  myimages[18]="images/headers/h18.jpg"
+		  myimages[19]="images/headers/h19.jpg"
+		  myimages[20]="images/headers/h20.jpg"
+		  
+
+		  var ry=Math.floor(Math.random()*myimages.length)
+
+		  if (ry==0)
+			 ry=1
+			 document.write('<a href="oceano.html"><img src="'+myimages[ry]+'" border=0 alt="Oceano: vida escondida" /></a>')
+		}
+
+		  random_imglink()
+		//-->
+		</script>
+
+		<noscript>
+		<img src="images/headers/h1.jpg" alt="Oceano: vida escondida" />
+		</noscript>
+		
+	</div>
+
+	<div id="menu">
+		<ul>
+			<li><a href="oceano.html#imagens">Galeria</a></li>
+			<li><a href="oceano.html#autores">Fot&oacute;grafos</a></li>
+			<li><a href="mostras.html">Hist&oacute;rico</a></li>			
+			<li><a href="oceano.html#creditos">Cr&eacute;ditos</a></li>
+			<li><a href="http://oceanovidaescondida.wordpress.com/">Blog</a></li>			
+			<li><a href="#" onclick="return hs.htmlExpand(this, { contentId: 'highslide-html' } )" class="highslide">Contato</a></li>
+		</ul>
+			
+			<!-- Highslide-html do contato -->			
+			<div class="highslide-html-content" id="highslide-html" style="width: 250px;">
+				<div style="height:20px; padding: 2px">
+	    			<a href="#" onclick="return hs.close(this)" class="control">Fechar</a>
+	    			<a href="#" onclick="return false" class="highslide-move control">Mover</a>
+				</div>
+				<div class="highslide-body" style="padding: 0 10px 10px 10px">
+					<p>CEBIMar - (12) 3862.8400</p>
+					<p><img id="email" src="images/email.png" alt="cebimar arroba usp ponto br" title="Fale Conosco" /></p>
+				</div>
+			</div>
+			<!-- Fim do Highslide-html do contato -->
+			
+	</div>
+	
+	<div id="menubottom"></div>
+
+	<!-- Conteudo da pagina -->
+	<div id="content">
+
+		<!-- Corpo da coluna da esquerda -->
+		<div id="primarycontainer">
+			
+			<!-- Coluna da esquerda -->
+			<div id="primarycontent">

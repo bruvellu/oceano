@@ -1,0 +1,55 @@
+		<!-- Corpo da coluna da direita -->
+		<div id="secondarycontent">
+			
+			<!-- Barra lateral com locais -->
+			<div class="box">
+				<h1>Local Atual</h1>
+				<div class="contentarea">
+                                    <ul class="linklist">
+                                            <li class="strong">62&ordf; Reuni&atilde;o Anual da SBPC</li>
+                                            <li>Ci&ecirc;ncias do mar: heran&ccedil;a para o futuro</li>
+                                            <li>UFRN</li>
+                                            <li>Natal, RN, Brasil</li>
+                                            <li><a href="http://www.sbpcnet.org.br/natal/home/">www.sbpcnet.org.br/natal/home</a></li>
+                                    </ul>
+                                    <ul class="linklist">
+                                            <li class="strong">In&iacute;cio</li>
+                                            <li>25 de julho de 2010</li>
+                                            <li class="strong">Fim</li>
+                                            <li>30 de julho de 2010</li>
+                                    </ul>
+                                    <!--
+                                    <ul class="linklist">
+                                            <li class="strong">Hor&aacute;rios</li>
+                                            <li>8h &agrave;s 21h</li>
+                                    </ul>
+                                    -->
+				</div>					
+			</div>
+			<div class="box">
+				<h3>Not&iacute;cias por email</h3>
+				<div class="contentarea">
+					<form
+                                        style="text-align:center;margin-top:1em"
+                                        action="http://www.feedburner.com/fb/a/emailverify"
+                                        method="post" target="popupwindow"
+                                        onsubmit="window.open('http://www.feedburner.com/fb/a/emailverifySubmit?feedId=1274070',
+                                        'popupwindow',
+                                        'scrollbars=yes,width=550,height=520');return
+                                        true"><p class="center">Digite seu
+                                        email abaixo:</p><p
+                                        class="center"><input type="text"
+                                        style="width:140px"
+                                        name="email"/></p><input type="hidden"
+                                        value="http://feeds.feedburner.com/~e?ffid=1274070"
+                                        name="url"/><input type="hidden"
+                                        value="Oceano" name="title"/><input
+                                        type="hidden" name="loc"
+                                        value="pt_BR"/><input type="submit"
+                                        value="Inscrever-se" /></form>
+					<p class="center"><a href="http://feeds.feedburner.com/oceano"><img src="http://feeds.feedburner.com/~fc/oceano?bg=f7f4dd&amp;fg=000000&amp;anim=1&amp;label=inscritos" height="26" width="88" style="border:0" alt="feed" /></a></p>
+				</div>					
+			</div>
+			
+		</div>
+		<!-- Fim da barra lateral -->
