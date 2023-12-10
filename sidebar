@@ -30,26 +30,17 @@
 			<div class="box">
 				<h2>Not&iacute;cias</h2>
 				<div class="contentarea">
-					<p class="center"><a href="http://oceanovidaescondida.wordpress.com/">oceanovidaescondida.wordpress.com</a></p>
-					<form
-                                        style="text-align:center;margin-top:1em"
-                                        action="http://www.feedburner.com/fb/a/emailverify"
-                                        method="post" target="popupwindow"
-                                        onsubmit="window.open('http://www.feedburner.com/fb/a/emailverifySubmit?feedId=1274070',
-                                        'popupwindow',
-                                        'scrollbars=yes,width=550,height=520');return
-                                        true"><p class="center">Digite seu
-                                        email abaixo:</p><p
-                                        class="center"><input type="text"
-                                        style="width:140px"
-                                        name="email"/></p><input type="hidden"
-                                        value="http://feeds.feedburner.com/~e?ffid=1274070"
-                                        name="url"/><input type="hidden"
-                                        value="Oceano" name="title"/><input
-                                        type="hidden" name="loc"
-                                        value="pt_BR"/><input type="submit"
-                                        value="Inscrever-se" /></form>
-					<p class="center"><a href="http://feeds.feedburner.com/oceano"><img src="http://feeds.feedburner.com/~fc/oceano?bg=f7f4dd&amp;fg=000000&amp;anim=1&amp;label=inscritos" height="26" width="88" style="border:0" alt="feed" /></a></p>
+					<p class="center">Acesse o <a href="https://oceanovidaescondida.wordpress.com/">Blog do Oceano</a></p>
+
+					<p class="center">Ou assine o <a href="https://oceanovidaescondida.wordpress.com/feed/">feed</a> <a href="https://oceanovidaescondida.wordpress.com/feed/"><img src="images/feed16x16.png" alt="Feed" style="vertical-align:middle;" /></a></p>
+
+					<!--
+
+					<form style="text-align:center;margin-top:1em" action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com/fb/a/emailverifySubmit?feedId=1274070', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Digite seu email: <input type="text" style="width:140px" name="email"/> <input type="hidden" value="http://feeds.feedburner.com/~e?ffid=1274070" name="url"/><input type="hidden" value="Oceano" name="title"/><input type="hidden" name="loc" value="pt_BR"/><input type="submit" value="Inscrever-se" /></p></form>
+
+					<p class="mailing">O fluxo de mensagens &eacute; baixo, informando apenas os locais de exibi&ccedil;&atilde;o e atualiza&ccedil;&otilde;es deste site. A inscri&ccedil;&atilde;o &eacute; simples, n&atilde;o tem spam e voc&ecirc; pode desativar o servi&ccedil;o a qualquer momento.</p>
+					-->
+
 				</div>					
 			</div>
 			
