@@ -18,6 +18,8 @@ TAMAR=tamar.html
 ECIENCIA=eciencia.html
 MVIDA=museuvida.html
 INDEX=index.html
+CSSDEF=default.css
+CSSINTRO=intro.css
 DIR=www
 
 # Site content should be stored as .html
@@ -61,4 +63,7 @@ cat $HEADER $TAMAR $SIDEBAR $FOOTER >> $DIR/$TAMAR
 cat $HEADER $ECIENCIA $SIDEBAR $FOOTER >> $DIR/$ECIENCIA
 cat $HEADER $MVIDA $SIDEBAR $FOOTER >> $DIR/$MVIDA
 cat $HEADER $OCEANO $SIDEBAR $GALERIA $FOOTER >> $DIR/$OCEANO
+cp $CSSDEF $DIR/$CSSDEF
+cp $CSSINTRO $DIR/$CSSINTRO
 cp $INDEX $DIR/$INDEX
+
