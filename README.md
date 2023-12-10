@@ -10,6 +10,6 @@ Venha apreciar estes seres dificilmente vistos fora do meio científico:
 ## Créditos
 
 - **Fotógrafos:** Alberto Lindner, Alvaro E. Migotto, Bruno C. Vellutini, Inácio D. da Silva Neto.
-- **Realização:** Centro de Biologia Marinha da Universidade de São Paulo (CEBIMar/USP)
+- **Realização:** [Centro de Biologia Marinha](http://cebimar.usp.br/) da [Universidade de São Paulo](http://usp.br/) (CEBIMar/USP)
 - **Webdesign:** [Bruno C. Vellutini](https://brunovellutini.com/)
 
