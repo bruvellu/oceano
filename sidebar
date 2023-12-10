@@ -3,8 +3,10 @@
 			
 			<!-- Barra lateral com locais -->
 			<div class="box">
-				<h1>Local Atual</h1>
+				<h2>Local Atual</h2>
 				<div class="contentarea">
+					<p class="center">N&atilde;o h&aacute; exibi&ccedil;&otilde;es presenciais acontecendo no momento.</p>
+                                    <!--
                                     <ul class="linklist">
                                             <li class="strong">62&ordf; Reuni&atilde;o Anual da SBPC</li>
                                             <li>Ci&ecirc;ncias do mar: heran&ccedil;a para o futuro</li>
@@ -18,7 +20,6 @@
                                             <li class="strong">Fim</li>
                                             <li>30 de julho de 2010</li>
                                     </ul>
-                                    <!--
                                     <ul class="linklist">
                                             <li class="strong">Hor&aacute;rios</li>
                                             <li>8h &agrave;s 21h</li>
@@ -27,7 +28,7 @@
 				</div>					
 			</div>
 			<div class="box">
-				<h3>Not&iacute;cias</h3>
+				<h2>Not&iacute;cias</h2>
 				<div class="contentarea">
 					<p class="center"><a href="http://oceanovidaescondida.wordpress.com/">oceanovidaescondida.wordpress.com</a></p>
 					<form
