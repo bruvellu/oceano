@@ -27,8 +27,9 @@
 				</div>					
 			</div>
 			<div class="box">
-				<h3>Not&iacute;cias por email</h3>
+				<h3>Not&iacute;cias</h3>
 				<div class="contentarea">
+					<p class="center"><a href="http://oceanovidaescondida.wordpress.com/">oceanovidaescondida.wordpress.com</a></p>
 					<form
                                         style="text-align:center;margin-top:1em"
                                         action="http://www.feedburner.com/fb/a/emailverify"

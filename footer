@@ -34,9 +34,5 @@ pageTracker._trackPageview();
 </script>
 <!-- Fim do Analytics -->
 
-<!-- FeedBurner -->
-<script src="http://feeds.feedburner.com/~s/oceano" type="text/javascript" charset="utf-8"></script>
-<!-- Fim do FeedBurner -->
-
 </body>
 </html>
