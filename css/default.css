@@ -283,9 +283,9 @@ ul.hist
 {
 list-style: none;
 text-align: left;
-margin: 1em 0pt;
+margin: 0.5em 0 1em 0;
 background: #ffffff;
-padding: 1em;
+padding: 0 1em;
 }
 
 ul#atual
@@ -420,7 +420,7 @@ width: 100%;
 
 #primarycontent
 {
-margin: 0.5em 20.0em 0em 0em;
+margin: 0.5em 20.0em 2em 0em;
 }
 
 #secondarycontent
